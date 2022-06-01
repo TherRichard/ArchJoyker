@@ -1,0 +1,301 @@
+<project version="4">
+  <component name="FavoritesManager">
+    <favorites_list name="pythonProject" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Other/aliyun/alio.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="6" column="43" lean-forward="true" selection-start-line="6" selection-start-column="43" selection-end-line="6" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/HealthCheckin/Test_Demo.py" />
+      <option value="$PROJECT_DIR$/HealthCheckin/Test_Demo/Test_Demo.py" />
+      <option value="$PROJECT_DIR$/HealthCheckin/Checkinx/Checkinx.py" />
+      <option value="$PROJECT_DIR$/HealthCheckin/Checkin/Checkin.py" />
+      <option value="$PROJECT_DIR$/HealthCheckin/Checkinx/Checkinxx.py" />
+      <option value="$PROJECT_DIR$/HealthCheckin/Checkinx/Checkin_tap_requests.py" />
+      <option value="$PROJECT_DIR$/Autoface_book/ZiHao_OpenCV.py" />
+      <option value="$PROJECT_DIR$/HealthCheckin/HNU-AutoCheckin/HNU-AutoCheckin.py" />
+      <option value="$PROJECT_DIR$/HealthCheckin/thu-checkin/thu-checkin.py" />
+      <option value="$PROJECT_DIR$/HealthCheckin/Other/JNU-Health-Checkin/JNU-Health-Checkin.py" />
+      <option value="$PROJECT_DIR$/HealthCheckin/Checkinre/Checkinre.py" />
+      <option value="$PROJECT_DIR$/Autoface_book/face_demo.py" />
+      <option value="$PROJECT_DIR$/Other/aliyun/alio.py" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="pythonProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pythonProject" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pythonProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pythonProject" type="462c0819:PsiDirectoryNode" />
+              <item name="Other" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pythonProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pythonProject" type="462c0819:PsiDirectoryNode" />
+              <item name="Other" type="462c0819:PsiDirectoryNode" />
+              <item name="aliyun" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" currentWorkingDirectory="$PROJECT_DIR$" commandHistoryFileName="pythonProject-history" />
+    </option>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.50078124" visible="true" weight="0.15966077" />
+      <window_info id="Structure" order="1" side_tool="true" />
+      <window_info id="Favorites" order="2" sideWeight="0.49921876" side_tool="true" visible="true" weight="0.15966077" />
+      <window_info id="Commit" order="3" />
+      <window_info id="Learn" order="4" />
+      <window_info id="Pull Requests" order="5" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.24285714" />
+      <window_info anchor="bottom" id="TODO" order="4" weight="0.3294993" />
+      <window_info anchor="bottom" id="Problems View" order="5" weight="0.3294993" />
+      <window_info anchor="bottom" id="Debug" order="6" weight="0.3051421" />
+      <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32993197" />
+      <window_info anchor="bottom" id="Python Packages" order="9" weight="0.3294993" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="bottom" id="Services" order="11" show_stripe_button="false" />
+    </layout>
+    <recentWindows>
+      <value>Project</value>
+      <value>Terminal</value>
+      <value>Run</value>
+      <value>Debug</value>
+      <value>Python Packages</value>
+      <value>Favorites</value>
+      <value>Problems View</value>
+      <value>TODO</value>
+    </recentWindows>
+  </component>
+  <component name="Trusted.Project.Settings" hasCheckedIfOldProject="true" trusted="YES" />
+  <component name="WindowStateProjectService">
+    <state x="311" y="39" width="734" height="626" key="#Inspections" timestamp="1637592630321">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="311" y="39" width="734" height="626" key="#Inspections/0.0.1366.768@0.0.1366.768" timestamp="1637592630321" />
+    <state x="155" y="9" width="1053" height="701" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1637591921463">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="155" y="9" width="1053" height="701" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.768@0.0.1366.768" timestamp="1637591921463" />
+    <state width="1333" height="150" key="GridCell.Tab.0.bottom" timestamp="1638891098797">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1333" height="150" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1638891098797" />
+    <state width="1333" height="150" key="GridCell.Tab.0.center" timestamp="1638891098796">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1333" height="150" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1638891098796" />
+    <state width="1333" height="150" key="GridCell.Tab.0.left" timestamp="1638891098795">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1333" height="150" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1638891098795" />
+    <state width="1333" height="150" key="GridCell.Tab.0.right" timestamp="1638891098797">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1333" height="150" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1638891098797" />
+    <state width="1333" height="197" key="GridCell.Tab.1.bottom" timestamp="1637993845495">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1333" height="197" key="GridCell.Tab.1.bottom/0.0.1366.768@0.0.1366.768" timestamp="1637993845495" />
+    <state width="1333" height="197" key="GridCell.Tab.1.center" timestamp="1637993845493">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1333" height="197" key="GridCell.Tab.1.center/0.0.1366.768@0.0.1366.768" timestamp="1637993845493" />
+    <state width="1333" height="197" key="GridCell.Tab.1.left" timestamp="1637993845492">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1333" height="197" key="GridCell.Tab.1.left/0.0.1366.768@0.0.1366.768" timestamp="1637993845492" />
+    <state width="1333" height="197" key="GridCell.Tab.1.right" timestamp="1637993845494">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1333" height="197" key="GridCell.Tab.1.right/0.0.1366.768@0.0.1366.768" timestamp="1637993845494" />
+    <state x="171" y="-17" key="SettingsEditor" timestamp="1637590387861">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="171" y="-17" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1637590387861" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/main.py" />
+    <entry file="file://$PROJECT_DIR$/HealthCheckin/Test_Demo/Test_Demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.local/lib/python3.9/site-packages/selenium/webdriver/common/service.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="131">
+          <caret line="83" selection-start-line="83" selection-end-line="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.local/lib/python3.9/site-packages/selenium/webdriver/firefox/webdriver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="113">
+          <caret line="161" column="45" lean-forward="true" selection-start-line="161" selection-start-column="45" selection-end-line="161" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HealthCheckin/Checkin/Checkin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HealthCheckin/Checkinx/Checkinx.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="12" lean-forward="true" selection-start-column="12" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HealthCheckin/Checkinx/Checkin_tap_requests.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="61" selection-start-line="7" selection-start-column="61" selection-end-line="7" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HealthCheckin/Other/thu-checkin/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HealthCheckin/Other/thu-checkin/thu-checkin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="119" column="31" selection-start-line="119" selection-start-column="31" selection-end-line="119" selection-end-column="31" />
+          <folding>
+            <element signature="e#20#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HealthCheckin/Other/HNU-AutoCheckin/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HealthCheckin/Other/JNU-Health-Checkin/JNU-Health-Checkin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="588">
+          <caret line="177" column="38" selection-start-line="177" selection-start-column="38" selection-end-line="177" selection-end-column="38" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HealthCheckin/Other/HNU-AutoCheckin/HNU-AutoCheckin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="25" lean-forward="true" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Autoface_book/ZiHao_OpenCV.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HealthCheckin/Checkinx/Checkinxx.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="17" column="12" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="45" />
+          <folding>
+            <element signature="e#54#84#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HealthCheckin/Checkinre/Checkinre.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Autoface_book/face_demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Other/aliyun/alio.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="43" lean-forward="true" selection-start-line="6" selection-start-column="43" selection-end-line="6" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

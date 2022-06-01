@@ -1,0 +1,124 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="$Copy">
+      <i c="2" l="1637672209917" />
+    </e>
+    <e n="$Delete">
+      <i c="1" l="1637670466822" />
+    </e>
+    <e n="$Paste">
+      <i c="5" l="1638370628996" />
+    </e>
+    <e n="$Redo">
+      <i c="1" l="1638283685082" />
+    </e>
+    <e n="$SelectAll">
+      <i c="1" l="1637727767672" />
+    </e>
+    <e n="$Undo">
+      <i c="88" l="1638286247259" />
+    </e>
+    <e n="ActivateFavoritesToolWindow">
+      <i c="1" l="1637653879252" />
+    </e>
+    <e n="CommentByLineComment">
+      <i c="17" l="1638286105501" />
+    </e>
+    <e n="DebugClass">
+      <i c="2" l="1637993839903" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="569" l="1639657923890" />
+    </e>
+    <e n="EditorChooseLookupItem">
+      <i c="69" l="1639655290740" />
+    </e>
+    <e n="EditorChooseLookupItemReplace">
+      <i c="17" l="1639655278647" />
+    </e>
+    <e n="EditorCopy">
+      <i c="12" l="1638883190742" />
+    </e>
+    <e n="EditorCut">
+      <i c="3" l="1638283908756" />
+    </e>
+    <e n="EditorDown">
+      <i c="32" l="1639655287643" />
+    </e>
+    <e n="EditorEnter">
+      <i c="79" l="1639655361502" />
+    </e>
+    <e n="EditorLeft">
+      <i c="97" l="1638886198999" />
+    </e>
+    <e n="EditorPaste">
+      <i c="33" l="1639657926830" />
+    </e>
+    <e n="EditorRight">
+      <i c="70" l="1639655295126" />
+    </e>
+    <e n="EditorScrollDown">
+      <i c="2" l="1639655370240" />
+    </e>
+    <e n="EditorTab">
+      <i c="3" l="1639655275683" />
+    </e>
+    <e n="EditorUp">
+      <i c="20" l="1638883167877" />
+    </e>
+    <e n="ExpandRegionRecursively">
+      <i c="1" l="1653715749336" />
+    </e>
+    <e n="NewDir">
+      <i c="5" l="1639657905603" />
+    </e>
+    <e n="NewPythonFile">
+      <i c="14" l="1639657920079" />
+    </e>
+    <e n="NewPythonPackage">
+      <i c="9" l="1639657914048" />
+    </e>
+    <e n="NextTemplateVariable">
+      <i c="1" l="1638286145790" />
+    </e>
+    <e n="Rerun">
+      <i c="7" l="1638285286425" />
+    </e>
+    <e n="RunClass">
+      <i c="53" l="1639658092063" />
+    </e>
+    <e n="Runner.RestoreLayout">
+      <i c="2" l="1637592658807" />
+    </e>
+    <e n="SaveAll">
+      <i c="135" l="1639658095690" />
+    </e>
+    <e n="ShowIntentionActions">
+      <i c="36" l="1639658073135" />
+    </e>
+    <e n="ShowSettings">
+      <i c="2" l="1637590028389" />
+    </e>
+    <e n="Stop">
+      <i c="15" l="1637993842821" />
+    </e>
+    <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
+      <i c="32" l="1653715753940" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.ToolWindowHeader$HideAction">
+      <i c="3" l="1653715755709" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.welcomeScreen.ActionGroupPanelWrapper$5">
+      <i c="2" l="1637318111100" />
+    </e>
+    <e n="com.intellij.ui.CommonActionsPanel$AddButton">
+      <i c="1" l="1637591904571" />
+    </e>
+    <e n="com.jetbrains.python.sdk.PySdkPopupFactory$AddInterpreterAction">
+      <i c="1" l="1639658082216" />
+    </e>
+    <e n="editRunConfigurations">
+      <i c="1" l="1637591901308" />
+    </e>
+  </component>
+</application>

@@ -1,0 +1,24 @@
+<application>
+  <component name="ShownTips">
+    <option name="shownTips">
+      <map>
+        <entry key="Close_all_editor_tabs.html" value="1637993795532" />
+        <entry key="CodeCompletion.html" value="1638428271461" />
+        <entry key="CodeCompletionInSearch.html" value="1638266875926" />
+        <entry key="GoToAction.html" value="1639295646711" />
+        <entry key="LensMode.html" value="1639655050268" />
+        <entry key="Multicursor.html" value="1638883081995" />
+        <entry key="Multiselection1.html" value="1637318176574" />
+        <entry key="OptimizeImports-py.html" value="1638630974747" />
+        <entry key="QuickDocInSuggestionList.html" value="1639295642438" />
+        <entry key="QuickSwitchScheme.html" value="1637727539374" />
+        <entry key="RenameCssSelector.html" value="1653715681667" />
+        <entry key="SearchEverywhere.html" value="1637318124376" />
+        <entry key="ShowUsages.html" value="1637590015846" />
+        <entry key="TabInLookups.html" value="1639926173521" />
+        <entry key="VcsQuickList.html" value="1637318176594" />
+        <entry key="local_history.html" value="1639655052922" />
+      </map>
+    </option>
+  </component>
+</application>
